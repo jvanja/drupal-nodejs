@@ -1,6 +1,6 @@
 {
-    "name": "jvanja/drupal-nodejs",
-    "type": "evinyl-custom-module",
-    "require": {}
+  "name": "jvanja/drupal-nodejs",
+  "type": "evinyl-custom-module",
+  "minimum-stability": "dev",
+  "require": {}
 }
-
